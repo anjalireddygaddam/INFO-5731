@@ -1,2 +1,4 @@
-# INFO-5731-Inclass_Exercises
-Python programs
+def lenOfString(string):
+    return len(string) 
+
+print(lenOfString(input("Enter a string: ")))
